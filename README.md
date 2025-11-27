@@ -236,5 +236,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ### 12. Add Product Form (Admin)
 ![alt text](<SS/Screenshot 2025-11-27 212640.png>)
 *Form for administrators to add new products to the catalog.*
-
-*Note: Replace the placeholder image paths with actual screenshots of your running application. Capture screenshots at various resolutions to showcase the responsive design.*
